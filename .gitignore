@@ -1,0 +1,6 @@
+forntend/Dockerfile
+frontend/.dockerignore
+backend/Dockerfile
+backend/.dockerignore
+dockerCompose.yaml
+frontend/nginx.conf
