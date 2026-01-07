@@ -1,4 +1,4 @@
-forntend/Dockerfile
+frontend/Dockerfile
 frontend/.dockerignore
 backend/Dockerfile
 backend/.dockerignore
