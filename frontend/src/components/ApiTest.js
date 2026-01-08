@@ -5,7 +5,7 @@ export default function ApiTest() {
 
   const callAPI = async () => {
     try {
-      const res = await fetch("http://localhost:5000/api/hello");
+      const res = await fetch("/api/hello");
       const data = await res.json();
       setResponse(data.message);
     } catch (err) {
