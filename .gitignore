@@ -3,4 +3,3 @@ frontend/.dockerignore
 backend/Dockerfile
 backend/.dockerignore
 dockerCompose.yaml
-
