@@ -2,3 +2,4 @@ frontend/Dockerfile
 frontend/.dockerignore
 backend/.dockerignore
 dockerCompose.yaml
+.github
